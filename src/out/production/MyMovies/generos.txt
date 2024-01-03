@@ -1,0 +1,17 @@
+Ação
+Animação
+Aventura
+Comédia
+Drama
+Fantasia
+Ficção Científica     
+Guerra
+Luta
+Musical
+Romance
+Suspense
+Terror
+Velho Oeste
+Documentário
+Retrofuturista
+Terrir

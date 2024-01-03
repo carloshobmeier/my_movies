@@ -1,0 +1,136 @@
+Oppenheimer
+Drama
+180
+8.5
+Unhinged
+Ação
+90
+6.0
+Deadpool 1=
+Ação
+120
+8.0
+Star Wars 4
+Ficção Científica     
+125
+9.0
+Rio 2
+Animação
+140
+8.0
+Bladerunner 2049
+Retrofuturista
+120
+10.0
+fnaf movie
+Terror
+130
+8.0
+interestelar
+Ficção Científica     
+160
+10.0
+batman
+Ação
+120
+10.0
+Star Wars Episódio 3. A vingança dos sith
+Ficção Científica     
+150
+10.0
+velozes e furiosos
+Ação
+190
+10.0
+truque de mestre
+Ação
+115
+9.0
+Avatar a lenda de Aang
+Aventura
+200
+10.0
+Baby Driver
+Ação
+80
+8.0
+Interstellar
+Ficção Científica     
+180
+10.0
+The Witch: Part 1 -The Subversion
+Ação
+125
+9.5
+avatar
+Fantasia
+120
+9.0
+Pequena Miss Sunshine
+Comédia
+120
+10.0
+Alice in borderland
+Ação
+180
+10.0
+minions
+Animação
+90
+9.0
+A bruxa
+Terror
+93
+10.0
+O peso do talento
+Comédia
+90
+9.0
+Paprika
+Animação
+90
+10.0
+Top Gun: Asas Indomáveis
+Ação
+100
+10.0
+Top Gun Maverick
+Ação
+120
+10.0
+Barbie
+Drama
+200
+10.0
+heroi do futuro
+Aventura
+168
+10.0
+Scott Pilgrim contra o mundo
+Comédia
+120
+10.0
+Velocipastor
+Terror
+90
+10.0
+duas faces de um crime
+Drama
+135
+10.0
+jogos vorazes
+Ficção Científica     
+70
+10.0
+velosos furiosos 8
+Ação
+240
+10.0
+guerra infiinita
+Ação
+200
+10.0
+Watch Black Holes | The Edge of All We Know
+Documentário
+90
+9.0

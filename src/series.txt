@@ -1,0 +1,44 @@
+Friends
+Comédia
+20
+8.9
+True Detective
+Suspense
+55
+8.9
+Cyberpunk: Edgerunners
+Animação
+48
+10.0
+The Witcher
+Fantasia
+50
+8.5
+La casa de Papel
+Ação
+40
+10.0
+O gambito da rainha
+Suspense
+50
+9.0
+The Mandalorian
+Ficção Científica     
+30
+9.0
+the vampire diaries
+Fantasia
+40
+10.0
+The boys
+Ação
+60
+10.0
+Arcane
+Drama
+40
+10.0
+rick and morty
+Comédia
+25
+9.0
